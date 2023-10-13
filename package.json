@@ -1,0 +1,12 @@
+{
+    "name": "AdditionalGear - OD Green Module, Armored Vests",
+    "author": "JustNU",
+    "version": "1.0.0",
+    "license": "Unlicense",
+    "main": "src/mod.js",
+	"akiVersion": "3.7.*",
+	"isBundleMod": true,
+	"modDependencies": {
+        "JustNUCore": "1.1.0"
+    }
+}
