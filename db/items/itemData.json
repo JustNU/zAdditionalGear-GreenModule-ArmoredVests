@@ -3,5 +3,10 @@
 		"BaseItemID": "5df8a2ca86f7740bfe6df777",
 		"BundlePath": "AddGearGreen/ArmoredVests/6B2.bundle",
 		"LootWeigthMult": 0.25
+	},
+	"AddGearGreen_Hexgrid": {
+		"BaseItemID": "5fd4c474dd870108a754b241",
+		"BundlePath": "AddGearGreen/ArmoredVests/hgrid.bundle",
+		"LootWeigthMult": 0.25
 	}
 }

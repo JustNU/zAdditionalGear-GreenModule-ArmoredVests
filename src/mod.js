@@ -73,7 +73,8 @@ class Mod
 		// Modify quests
 		if (config.EnableQuestChanges) {
 			const armoredVests = [
-				["AddGearGreen_6B2"]
+				["AddGearGreen_6B2"],
+				["AddGearGreen_Hexgrid"]
 			];
 			
 			// The survivalist path. Unprotected, but dangerous

@@ -3,5 +3,10 @@
 		"Name": "6B2 body armor (OD Green)",
 		"ShortName": "6B2",
 		"Description": "An old army body armor from Afghanistan war times, mainly designed to protect against pistol bullets and explosion fragments. It fulfilled its mission, but was soon replaced by bulletproof vests with differentiated protection."
+    },
+	"AddGearGreen_Hexgrid": {
+        "Name": "5.11 Tactical Hexgrid plate carrier (OD Green)",
+		"ShortName": "Hexgrid",
+		"Description": "The Hexgrid plate carrier with smooth ergonomic access that allows comfortable movement, intended for use with chest rigs. Manufactured by 5.11 Tactical."
     }
 }

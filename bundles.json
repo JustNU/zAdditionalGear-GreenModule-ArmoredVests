@@ -7,6 +7,14 @@
 				"cubemaps",
 				"assets/commonassets/physics/physicsmaterials.bundle"
 			]
+        },
+		{
+            "key": "AddGearGreen/ArmoredVests/hgrid.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
