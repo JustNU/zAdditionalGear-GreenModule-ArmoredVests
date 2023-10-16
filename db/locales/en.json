@@ -8,5 +8,10 @@
         "Name": "5.11 Tactical Hexgrid plate carrier (OD Green)",
 		"ShortName": "Hexgrid",
 		"Description": "The Hexgrid plate carrier with smooth ergonomic access that allows comfortable movement, intended for use with chest rigs. Manufactured by 5.11 Tactical."
+    },
+	"AddGearGreen_TacTec_Armor": {
+        "Name": "5.11 Tactical TacTec armor (OD Green)",
+		"ShortName": "TacTec armor",
+		"Description": "A plate carrier with armor plates made of polyethylene (Russian GOST class 5 protection). Manufactured by 5.11 Tactical."
     }
 }

@@ -19,7 +19,7 @@ class Mod
 		
 		// custom items
 		const customItems = [
-		
+			"AddGearGreen_TacTec_Armor"
 		];
 		
 		//add retextures
@@ -74,7 +74,8 @@ class Mod
 		if (config.EnableQuestChanges) {
 			const armoredVests = [
 				["AddGearGreen_6B2"],
-				["AddGearGreen_Hexgrid"]
+				["AddGearGreen_Hexgrid"],
+				["AddGearGreen_TacTec_Armor"]
 			];
 			
 			// The survivalist path. Unprotected, but dangerous

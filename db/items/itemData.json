@@ -8,5 +8,10 @@
 		"BaseItemID": "5fd4c474dd870108a754b241",
 		"BundlePath": "AddGearGreen/ArmoredVests/hgrid.bundle",
 		"LootWeigthMult": 0.25
+	},
+	"AddGearGreen_TacTec_Armor": {
+		"BaseItemID": "5fd4c474dd870108a754b241",
+		"BundlePath": "AddGearGreen/ArmoredVests/tactec_armor.bundle",
+		"LootWeigthMult": 0.25
 	}
 }

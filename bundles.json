@@ -15,6 +15,14 @@
                 "shaders",
 				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+		{
+            "key": "AddGearGreen/ArmoredVests/tactec_armor.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }
