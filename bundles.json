@@ -23,6 +23,33 @@
 				"cubemaps",
 				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+		{
+            "key": "AddGearGreen/ArmoredVests/6b13_textures.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearGreen/ArmoredVests/6b13.bundle",
+            "dependencyKeys": [
+				"AddGearGreen/ArmoredVests/6b13_textures.bundle",
+				"assets/content/characters/character/vest/ar_6b13_mesh",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "AddGearGreen/ArmoredVests/6b13_killa.bundle",
+            "dependencyKeys": [
+				"assets/content/characters/character/vest/ar_6b13_mesh",
+				"AddGearGreen/ArmoredVests/6b13_textures.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps"
+			]
         }
     ]
 }

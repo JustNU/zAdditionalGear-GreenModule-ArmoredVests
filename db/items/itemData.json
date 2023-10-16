@@ -13,5 +13,15 @@
 		"BaseItemID": "5fd4c474dd870108a754b241",
 		"BundlePath": "AddGearGreen/ArmoredVests/tactec_armor.bundle",
 		"LootWeigthMult": 0.25
+	},
+	"AddGearGreen_6B13M_Killa": {
+		"BaseItemID": "5c0e541586f7747fa54205c9",
+		"BundlePath": "AddGearGreen/ArmoredVests/6b13_killa.bundle",
+		"LootWeigthMult": 0.25
+	},
+	"AddGearGreen_6B13": {
+		"BaseItemID": "5c0e53c886f7747fa54205c7",
+		"BundlePath": "AddGearGreen/ArmoredVests/6b13.bundle",
+		"LootWeigthMult": 0.25
 	}
 }

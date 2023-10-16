@@ -75,7 +75,9 @@ class Mod
 			const armoredVests = [
 				["AddGearGreen_6B2"],
 				["AddGearGreen_Hexgrid"],
-				["AddGearGreen_TacTec_Armor"]
+				["AddGearGreen_TacTec_Armor"],
+				["AddGearGreen_6B13"],
+				["AddGearGreen_6B13M_Killa"]
 			];
 			
 			// The survivalist path. Unprotected, but dangerous

@@ -2,6 +2,8 @@
 	"Armored Vests": {
 		"AddGearGreen_6B2": true,
 		"AddGearGreen_Hexgrid": true,
-		"AddGearGreen_TacTec_Armor": true
+		"AddGearGreen_TacTec_Armor": true,
+		"AddGearGreen_6B13M_Killa": true,
+		"AddGearGreen_6B13": true
 	}
 }

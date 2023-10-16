@@ -13,5 +13,15 @@
         "Name": "5.11 Tactical TacTec armor (OD Green)",
 		"ShortName": "TacTec armor",
 		"Description": "A plate carrier with armor plates made of polyethylene (Russian GOST class 5 protection). Manufactured by 5.11 Tactical."
+    },
+	"AddGearGreen_6B13": {
+        "Name": "6B13 assault armor (OD Green)",
+		"ShortName": "6B13 OD Green",
+		"Description": "The main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions. OD Green color version."
+    },
+	"AddGearGreen_6B13M_Killa": {
+        "Name": "6B13 M modified assault armor (Killa, OD Green)",
+		"ShortName": "6B13 M OD Green",
+		"Description": "A 6B13 armored vest that has had its ceramic armored plates replaced with lightweight polyethylene plates. The protection class is higher and the weight is lower. This particular set of armor has been personally modified by Killa."
     }
 }
