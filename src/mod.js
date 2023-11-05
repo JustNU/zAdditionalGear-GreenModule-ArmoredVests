@@ -77,7 +77,9 @@ class Mod
 				["AddGearGreen_Hexgrid"],
 				["AddGearGreen_TacTec_Armor"],
 				["AddGearGreen_6B13"],
-				["AddGearGreen_6B13M_Killa"]
+				["AddGearGreen_6B13M_Killa"],
+				["AddGearGreen_6B23_1"],
+				["AddGearGreen_6B23_2"]
 			];
 			
 			// The survivalist path. Unprotected, but dangerous

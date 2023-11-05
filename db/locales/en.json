@@ -23,5 +23,15 @@
         "Name": "6B13 M modified assault armor (Killa, OD Green)",
 		"ShortName": "6B13 M OD Green",
 		"Description": "A 6B13 armored vest that has had its ceramic armored plates replaced with lightweight polyethylene plates. The protection class is higher and the weight is lower. This particular set of armor has been personally modified by Killa."
+    },
+	"AddGearGreen_6B23_1": {
+        "Name": "6B23-1 body armor (OD Green)",
+		"ShortName": "6B23-1 Green",
+		"Description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
+    },
+	"AddGearGreen_6B23_2": {
+        "Name": "6B23-2 body armor (OD Green)",
+		"ShortName": "6B23-2 Green",
+		"Description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
     }
 }

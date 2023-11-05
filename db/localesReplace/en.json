@@ -8,5 +8,8 @@
 	"5c0e541586f7747fa54205c9": {
         "Name": "6B13 M modified assault armor (Killa, Tan)",
 		"ShortName": "6B13 M Tan"
-	}
+	},
+	"5c0e57ba86f7747fa141986d": {
+		"Description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
+    }
 }

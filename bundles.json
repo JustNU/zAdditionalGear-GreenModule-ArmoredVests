@@ -50,6 +50,16 @@
 				"shaders",
 				"cubemaps"
 			]
+        },
+		{
+            "key": "AddGearGreen/ArmoredVests/6b23.bundle",
+            "dependencyKeys": [
+				"assets/content/characters/character/vest/ar_6b23_mesh",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps",
+				"assets/content/items/equipment/armor_6b23/item_equipment_armor_6b23_gloss_nrm"
+			]
         }
     ]
 }
